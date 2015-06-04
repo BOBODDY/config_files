@@ -1,0 +1,13 @@
+{
+    "font_size": 8,
+    "ignored_packages":
+    [
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "tab_completion": true,
+    "tab_size": 4
+}
