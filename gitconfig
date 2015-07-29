@@ -1,0 +1,13 @@
+[user]
+	name = Nick Mathews
+	email = nick@codemettle.com
+[core]
+	editor = vim
+	autocrlf = input
+[alias]
+	wow = git status
+	such = git
+	very = git
+	unstage = reset
+[push]
+	default = simple
